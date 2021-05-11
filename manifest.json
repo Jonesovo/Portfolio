@@ -4,7 +4,7 @@
     "name": "Jones Portfolio",
     "short_name": "Jones Portf",
     "scope": "/Portfolio/",
-    "display": "standalone",
+    "display": "any",
     "start_url": "https://jonesovo.github.io/Portfolio/index.html",
     "background_color": "#000000",
     "theme_color": "transparent",
