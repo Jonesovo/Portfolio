@@ -34,5 +34,19 @@
             "type": "image/png"
         }
     ],
+    "screenshots": [
+        {
+            "src": "screenshot1.png",
+            "sizes": "1366x1531",
+            "type": "image/png",
+            "platform": "wide"
+        },
+        {
+            "src": "screenshot2.png",
+            "sizes": "520x1763",
+            "type": "image/png",
+            "platform": "narrow"
+        }
+    ],
     "url": "https://jonesovo.github.io/Portfolio/"
 }
