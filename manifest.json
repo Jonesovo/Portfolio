@@ -12,6 +12,27 @@
     "orientation": "portrait",
     "related_applications": [],
     "prefer_related_applications": false,
-    "icons": [],
+    "icons": [
+        {
+            "src": "coollogo1.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "coollogo2.png",
+            "sizes": "190x190",
+            "type": "image/png"
+        },
+        {
+            "src": "coollogo3.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "coollogo4.png",
+            "sizes": "60x60",
+            "type": "image/png"
+        }
+    ],
     "url": "https://jonesovo.github.io/Portfolio/"
 }
