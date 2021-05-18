@@ -3,7 +3,7 @@
     "lang": "en",
     "name": "Jones Portfolio",
     "short_name": "Jones Portf",
-    "scope": "/Portfolio/",
+    "scope": "https://jonesovo.github.io/Portfolio/index.html",
     "display": "standalone",
     "start_url": "https://jonesovo.github.io/Portfolio/index.html",
     "background_color": "#000000",
